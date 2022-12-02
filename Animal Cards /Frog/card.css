@@ -1,0 +1,40 @@
+.card{
+    height: 600px;
+    width: 290px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: lightgreen;
+    box-shadow: 10px 5px gray;
+}
+
+img{
+    width: 280px;
+    height: 210px;
+    margin-left: 1px;
+    margin-right: 1px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Luckiest Guy', cursive;
+
+}
+
+ul{
+    list-style: none;
+    padding-left: 1px;
+}
+.funfact{
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+.listfacts{
+    border: 2px solid black;
+    margin: 10px;
+    font-family: 'Gruppo', cursive;
+
+}

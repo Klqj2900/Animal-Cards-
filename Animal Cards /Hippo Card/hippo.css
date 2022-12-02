@@ -1,0 +1,43 @@
+.card{
+    height: 700px;
+    width: 325px;
+    border: 2px solid black ;
+    box-shadow: 10px 5px gray;
+    background-color: coral;
+    border-radius: 19px ;
+}
+img{
+    width: 300px;
+    border: 2px solid;
+    height: 312px;
+    align-items: center;
+    border-radius: 30px;
+    
+
+    
+}
+.facts{
+    list-style: none;
+    padding-left: 10px 
+    ;
+}
+h1{
+    font-size:x-large;
+    text-decoration: underline;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+.facts{
+    border: 2px solid black;
+    border-radius: 9px;
+    box-shadow: 10px;
+    margin: 10px;
+}
+.funfact{
+    font-style: italic;
+    font-family: "Permanent Marker", cursive;
+}
+.inner{
+    padding-left: 0px;
+}
