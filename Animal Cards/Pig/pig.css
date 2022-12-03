@@ -1,0 +1,36 @@
+.card{
+    height: 640px;
+    width: 310px;
+    border: 2px solid gray;
+    border-radius: 30px;
+    box-shadow: 10px 5px gray;
+    background-color: lightpink;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+ul{
+    list-style: none;
+    padding: 0%;
+}
+.funfact{
+    font-family: 'Indie Flower', cursive;
+    text-decoration: underline;
+    text-align: center;
+}
+.listfact{
+    border: 1px solid;
+    margin: 10px;
+    box-shadow: 5px 5px gray;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Indie Flower',cursive;
+}
+.bodytext{
+font-family: 'Indie Flower', cursive;
+}
