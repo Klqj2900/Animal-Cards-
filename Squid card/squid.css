@@ -1,0 +1,33 @@
+.card{
+    height: 600px;
+    width: 315px;
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: black;
+    box-shadow: 10px 5px grey;
+}
+img{
+    width: 300px;
+    height:200px ;
+    border:1px solid white;
+}
+ul{
+    list-style: none;
+    padding: 0px;
+}
+.listfacts{
+    border: 1px solid white;
+    color: white;
+    margin: 10px;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+.funfact{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
